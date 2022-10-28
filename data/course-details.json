@@ -1,0 +1,50 @@
+[
+    {
+        "id": "1",
+        "name": "HTML",
+        "ques": "Are you here to learn HTML-5?",
+        "courseFee": "20.00",
+        "Image": "https://i.ytimg.com/vi/2RNyK0sJxbI/maxresdefault.jpg",
+        "details": "Why is HTML important? Hi,You can use HTML (Hypertext Markup Language) for formatting if you like spending a long time doing inline formatting and don't like CSS. HTML is the foundation of a website it contains the information that tells the browser what is on the page in terms of text, links, where to find images."
+    },
+    {
+        "id": "2",
+        "name": "CSS",
+        "ques": "Are you here to learn CSS?",
+        "courseFee": "20.00",
+        "Image": "https://repository-images.githubusercontent.com/428080046/8073eeb4-3a1a-4066-ac50-4bf75259756c",
+        "details": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Cupiditate, itaque obcaecati!."
+    },
+    {
+        "id": "3",
+        "name": "Bootstrap",
+        "ques": "Are you here to learn Bootstrap?",
+        "courseFee": "20.00",
+        "Image": "https://www.tangolearn.com/wp-content/uploads/2021/11/best-bootstrap-courses-online.jpg",
+        "details": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Cupiditate, itaque obcaecati!."
+    },
+    {
+        "id": "4",
+        "name": "JavaScript",
+        "ques": "Are you here to learn JavaScript?",
+        "courseFee": "20.00",
+        "Image": "https://www.freecodecamp.org/news/content/images/2022/06/How-to-learn-JavaScript-faster-2.png",
+        "details": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Cupiditate, itaque obcaecati!."
+    },
+    {
+        "id": "5",
+        "name": "React",
+        "ques": "Are you here to learn React JS?",
+        "courseFee": "20.00",
+        "Image": "https://www.peerbits.com/static/fc598597fa464f52805c88acc3a29061/189bc/the-benefits-of-reactjs-main.jpg",
+        "details": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Cupiditate, itaque obcaecati!."
+    },
+    {
+        "id": "6",
+        "name": "Node JS",
+        "ques": "Are you here to learn Node JS?",
+        "courseFee": "20.00",
+        "Image": "https://s3.stackabuse.com/media/articles/da13730c8b5158e6c7e0e72aef8438a6.jpg",
+        "details": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Cupiditate, itaque obcaecati!."
+    }
+]
