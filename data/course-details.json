@@ -11,7 +11,7 @@
         "id": "2",
         "name": "CSS",
         "ques": "Are you here to learn CSS?",
-        "courseFee": "20.00",
+        "courseFee": "30.00",
         "Image": "https://repository-images.githubusercontent.com/428080046/8073eeb4-3a1a-4066-ac50-4bf75259756c",
         "details": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Cupiditate, itaque obcaecati!."
     },
@@ -27,7 +27,7 @@
         "id": "4",
         "name": "JavaScript",
         "ques": "Are you here to learn JavaScript?",
-        "courseFee": "20.00",
+        "courseFee": "25.00",
         "Image": "https://www.freecodecamp.org/news/content/images/2022/06/How-to-learn-JavaScript-faster-2.png",
         "details": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Cupiditate, itaque obcaecati!."
     },
@@ -35,7 +35,7 @@
         "id": "5",
         "name": "React",
         "ques": "Are you here to learn React JS?",
-        "courseFee": "20.00",
+        "courseFee": "35.00",
         "Image": "https://www.peerbits.com/static/fc598597fa464f52805c88acc3a29061/189bc/the-benefits-of-reactjs-main.jpg",
         "details": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Cupiditate, itaque obcaecati!."
     },
@@ -43,7 +43,7 @@
         "id": "6",
         "name": "Node JS",
         "ques": "Are you here to learn Node JS?",
-        "courseFee": "20.00",
+        "courseFee": "27.00",
         "Image": "https://s3.stackabuse.com/media/articles/da13730c8b5158e6c7e0e72aef8438a6.jpg",
         "details": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Cupiditate, itaque obcaecati!."
     }
